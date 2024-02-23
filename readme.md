@@ -194,3 +194,26 @@ This checks the datatype of both the values
 ```
 console.log("2" === 2)
 ```
+
+# 🎯 Datatypes summary ✅
+
+There are two main categories of datatypes in JavaScript:
+
+1. Primitive Datatypes, and
+2. Non-Primitive Datatypes (Reference)
+
+⭐ Primitive Datatypes:
+
+1. String
+2. Number
+3. Boolean 
+4. null
+5. undefined
+6. Symbol
+7. BigInt
+
+⭐ Non-Primitive Datatypes (Reference)
+
+1. Arrays
+2. Objects
+3. Functions

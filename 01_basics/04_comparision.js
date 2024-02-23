@@ -18,4 +18,4 @@
 // console.log(undefined <= 0);
 
 // This checks the datatype of both the values
-console.log("2" === 2) 
+// console.log("2" === 2) 
