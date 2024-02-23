@@ -217,3 +217,8 @@ There are two main categories of datatypes in JavaScript:
 1. Arrays
 2. Objects
 3. Functions
+
+# 🎯 Stack and Heap memory in javascript ✅
+
+Every primitive datatypes goes to stack memory and every non-primitive datatypes\
+goes to heap memory.
